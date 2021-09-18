@@ -10,7 +10,7 @@
 Удалить буквы в номерах билетов?
 
 
-https://docs.google.com/spreadsheets/d/1egKaUtC83fiC-8TaHxmoK3RyzN6ajmajiVD0QvvQEks/edit?usp=sharing
+[Google Sheet](https://docs.google.com/spreadsheets/d/1egKaUtC83fiC-8TaHxmoK3RyzN6ajmajiVD0QvvQEks/edit?usp=sharing)
 
 Леонардо Ди Каприо - 13,54%
 Кейт Уинслет - 96,81%
