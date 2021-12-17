@@ -1,6 +1,6 @@
 SQLite
 
-INSERT INTO EmployeePoints (Employee, Point, Date)
+INSERT INTO EmplPoints (Employee, Point, Date)
 VALUES
 ('Маша' ,	5,	'2020-01-01'),
 ('Петя' ,	4,	'2020-01-01'),
@@ -24,10 +24,10 @@ VALUES
 ('Вася' ,	3,	'2020-01-05'),
 ('Саша' ,	3,	'2020-01-05');
 
-SELECT DISTINCT Employee FROM EmployeePoints 
+SELECT DISTINCT Employee FROM EmplPoints 
 
 SELECT Employee, COUNT(Point) as Countof5
-FROM EmployeePoints 
+FROM EmplPoints 
 where point = '5'
 group by Employee
 ORDER by Countof5 DESC
